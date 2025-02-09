@@ -1,5 +1,11 @@
 # Changelog
 
+## WIP
+
+### Fixed
+
+- Fix button link font size in Button component
+
 ## 3.23.0 (February 4, 2025)
 
 ### Added
